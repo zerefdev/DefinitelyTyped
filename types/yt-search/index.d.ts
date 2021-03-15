@@ -177,6 +177,7 @@ declare namespace yts {
         listId: string;
         thumbnail: string;
         author: Author;
+        duration: Duration;
     }
 
     interface PlaylistMetadataResult {
